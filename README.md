@@ -30,5 +30,6 @@ More of my research, projects, notes, and coursework are at
 
 Most of what I put on GitHub is some mix of math, cryptography, and systems work.
 
-<img width="938" height="701" alt="image" src="https://github.com/user-attachments/assets/7ce71bc3-4eaa-4e1b-a6fa-0c0ebc4a625d" />
+<img width="928" height="690" alt="image" src="https://github.com/user-attachments/assets/57c27249-af73-4e32-b6bb-8792fde3c82f" />
+
 Neural Network on a microcontroller playing and beating me at chess
