@@ -27,12 +27,6 @@ I programmed a 2FA implementation on my Microcontroller chip that acts as my pas
 **[Akira ML](https://github.com/ishanrk/akiraML3)**  
 A CUDA C++ ML library I wrote from scratch, with tensors, autodifferentiation, neural-network modules, convolution, transformers, optimizers, tests, and benchmarks.
 
-**[ESP32 P4 NNUE](https://github.com/ishanrk/esp32p4-nnue)**  
-A C chess engine and integer NNUE built for the ESP32 P4. I also wrote a [guide](https://nnue.ishankumthekar.com/#guide) covering the engine, network choices, training, firmware, and hardware constraints.
-
-**[Noir Poker](https://github.com/ishanrk/noir-poker)**  
-A poker project built around ZK protocols with Noir and Aztec, including private SIDE CHALLENGES whose conditions can be proved without revealing them.
-
 ### Elsewhere
 
 More of my research, projects, notes, and coursework are at  
