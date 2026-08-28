@@ -18,6 +18,10 @@ e) **Analytic number theory** — ONE OF MY FAVORITE SUBJECTS VIA NUMBER SIEVES.
 
 ### Some things I've built
 
+**[Custom RISC-V instructions](https://github.com/ishanrk/embedded-mlkem-bench)**
+My attempt at playing around to design some instructions in system verilog and see how well they do to speed up ML-KEM.
+
+
 **[Akira ML](https://github.com/ishanrk/akiraML3)**  
 A CUDA C++ machine-learning library I wrote from scratch, with tensors, autodifferentiation, neural-network modules, convolution, transformers, optimizers, tests, and benchmarks.
 
