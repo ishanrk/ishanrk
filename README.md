@@ -18,7 +18,7 @@ e) **Analytic number theory** — ONE OF MY FAVORITE SUBJECTS VIA NUMBER SIEVES.
 
 ### Some things I've built
 
-**[Custom RISC-V instructions](https://github.com/ishanrk/embedded-mlkem-bench)**
+**[Custom RISC-V instructions](https://github.com/ishanrk/embedded_mlkem_bench)**
 My attempt at playing around to design some instructions in system verilog and see how well they do to speed up ML-KEM.
 
 **[My Own 2FA Implementation for my Microcontroller](https://github.com/ishanrk/esp32p4-2fa-key)**
