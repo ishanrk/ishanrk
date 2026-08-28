@@ -7,9 +7,13 @@ I'm mainly interested in combinatorics, analytic number theory, cryptography, ze
 ### Interest
 
 a)  **Ramsey theory** — polynomial van der Waerden numbers and Rado numbers. So much so that a website is in progress to document all known bounds and to set up collaboration on the field. Since I think its really really easy to get into for high school/early university students.
+
 b) **Cryptography** — Fouriera analytic attacks on combinational circuits (my group at FICS started this work before I arrived at their lab and it is one of my favorite papers: https://tches.iacr.org/index.php/TCHES/article/view/13126). I really like query complexity questions as well (thesis of my PI at REU-CAAR)
+
 c) **Algebraic Geometry** — Questions of the following sort: "Say I specify 9 pairwise distances between 5 points, is the 10th pairwise distance forced to be some value? Or can it take on values in a single interval like [0,2] or does it need multiple intervals etc."
+
 d) **Post-quantum cryptography** — I like looking at any sort of side channel vulnerabilities and SOC design.
+
 e) **Analytic number theory** — ONE OF MY FAVORITE SUBJECTS VIA NUMBER SIEVES.
 
 ### Some things I've built
