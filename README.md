@@ -24,9 +24,6 @@ My attempt at playing around to design some instructions in system verilog and s
 **[My Own 2FA Implementation for my Microcontroller](https://github.com/ishanrk/esp32p4-2fa-key)**
 I programmed a 2FA implementation on my Microcontroller chip that acts as my passkey for logging into github.
 
-**[Akira ML](https://github.com/ishanrk/akiraML3)**  
-A CUDA C++ ML library I wrote from scratch, with tensors, autodifferentiation, neural-network modules, convolution, transformers, optimizers, tests, and benchmarks.
-
 ### Elsewhere
 
 More of my research, projects, notes, and coursework are at  
