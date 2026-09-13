@@ -1,4 +1,4 @@
-<img align="right" width="210" src="./check.png" alt="Ishan Kumthekar">
+
 
 # Hi, I'm Ishan
 
@@ -71,3 +71,5 @@ I occasionally write up things I am learning or building.
 - [Designing Custom RISC-V Instructions to Accelerate PQC Schemes](https://ishankumthekar.com/projects/custom-risc-v-ml-kem-instructions)
 
 More at **[ishankumthekar.com](https://ishankumthekar.com)**.
+
+<img align="right" width="210" src="./check.png" alt="Ishan Kumthekar">
