@@ -68,7 +68,6 @@ RISC-V, embedded systems, hardware acceleration and cryptographic implementation
 I occasionally write up things I am learning or building.
 
 - [Understanding Anthropic's Break of HAWK](https://ishankumthekar.com/writing/understanding-anthropics-hawk-break)
-- [Designing Custom RISC-V Instructions to Accelerate PQC Schemes](https://ishankumthekar.com/projects/custom-risc-v-ml-kem-instructions)
 
 More at **[ishankumthekar.com](https://ishankumthekar.com)**.
 
