@@ -1,36 +1,73 @@
+<img align="right" width="210" src="./assets/profile.jpg" alt="Ishan Kumthekar">
+
 # Hi, I'm Ishan
 
-I'm a mathematics and computer science student at the University of Florida.
+I'm a Computer Science and Mathematics student at the University of Florida.
 
-I'm mainly interested in combinatorics, analytic number theory, cryptography, zero-knowledge protocols, algorithms, and low-level systems work.
+I work mostly around **cryptography, combinatorics, embedded systems, and algorithms**. Recently I have been interested in post quantum cryptography on small processors, hardware security, quantum annealing, and computational approaches to problems in Ramsey theory.
 
-### Interest
+[Website](https://ishankumthekar.com) · [Research](https://ishankumthekar.com/research) · [Writing](https://ishankumthekar.com/writing)
 
-a)  **Ramsey theory** — polynomial van der Waerden numbers and Rado numbers. So much so that a website is in progress to document all known bounds and to set up collaboration on the field. Since I think its really really easy to get into for high school/early university students.
+<br clear="right">
 
-b) **Cryptography** — Fourier analytic attacks on combinational circuits (my group at FICS started this work before I arrived at their lab and it is one of my favorite papers: https://tches.iacr.org/index.php/TCHES/article/view/13126). I really like query complexity questions as well (thesis of my PI at REU-CAAR)
+## Research
 
-c) **Algebraic Geometry** — Questions of the following sort: "Say I specify 9 pairwise distances between 5 points, is the 10th pairwise distance forced to be some value? Or can it take on values in a single interval like [0,2] or does it need multiple intervals etc."
+### Polynomial Ramsey theory
 
-d) **Post-quantum cryptography** — I like looking at any sort of side channel vulnerabilities and SOC design.
+I worked on polynomial van der Waerden and polynomial Rado problems at REU CAAR at the University of Maryland. We used computational search and quantum annealing techniques to find new constructions, which eventually led to two preprints.
 
-e) **Analytic number theory** — ONE OF MY FAVORITE SUBJECTS VIA NUMBER SIEVES.
+- [Four Color Quadratic Polynomial Van der Waerden Numbers](https://www.cs.umd.edu/~gasarch/RADOSTUD/IshanPVDW4Colors.pdf)
+- [Exact Rado Numbers for Polynomial Difference Equations](https://www.cs.umd.edu/~gasarch/RADOSTUD/IshanExactNonlinearRado.pdf)
 
-### Some things I've built
+### Hardware security and post quantum cryptography
 
-**[Custom RISC-V instructions](https://github.com/ishanrk/embedded_mlkem_bench)**
-My attempt at playing around to design some instructions in system verilog and see how well they do to speed up ML-KEM.
+At the Florida Institute for Cybersecurity Research I work on security questions around integrated circuits and cryptographic implementations.
 
-**[My Own 2FA Implementation for my Microcontroller](https://github.com/ishanrk/esp32p4-2fa-key)**
-I programmed a 2FA implementation on my Microcontroller chip that acts as my passkey for logging into github.
+My current work includes:
 
-### Elsewhere
+- function recovery attacks on logic locked circuits
+- fault injection against masked ML-DSA implementations
+- Code based Post Quantum Cryptography for intersatellite communication
 
-More of my research, projects, notes, and coursework are at  
-**[ishankumthekar.com](https://ishankumthekar.com)**
+More details are on my [research page](https://ishankumthekar.com/research).
 
-Most of what I put on GitHub is some mix of math, cryptography, and systems work.
+## Selected Projects
 
-<img width="928" height="690" alt="image" src="https://github.com/user-attachments/assets/57c27249-af73-4e32-b6bb-8792fde3c82f" />
+### [Designing Custom RISC-V Instructions to Accelerate PQC Schemes](https://ishankumthekar.com/projects/custom-risc-v-ml-kem-instructions)
 
-Neural Network on a microcontroller playing and beating me at chess
+[GitHub](https://github.com/ishanrk/embedded_mlkem_bench)
+
+I designed custom RV32 instructions for PicoRV32 to accelerate the NTT and hashing procedures used by ML-KEM.
+
+The instructions are implemented in SystemVerilog and integrated with `mlkem-native` in C. I benchmarked ML-KEM-512, ML-KEM-768 and ML-KEM-1024 for processor cycles, FPGA LUT area and timing overhead. The best instruction reduced processor cycles by about **33%**.
+
+### [Physical Two Factor Authentication Key](https://github.com/ishanrk/esp32p4-2fa-key)
+
+I built a physical two factor authentication key in C on an ESP32-P4 microcontroller.
+
+It implements FIDO2 and CTAP2 over USB HID, uses a physical button press for user presence, and uses the ESP32-P4 hardware cryptographic accelerators for P-256, AES-256-GCM and SHA-256.
+
+I use the finished device to authenticate my own GitHub account.
+
+## Things I like working on
+
+**Cryptography**  
+Post quantum cryptography, implementation security, side channels, fault injection, logic locking and zero knowledge protocols.
+
+**Combinatorics**  
+Ramsey theory, polynomial van der Waerden numbers and Rado numbers.
+
+**Number theory**  
+Analytic number theory, sieves and computational number theory.
+
+**Low level systems**  
+RISC-V, embedded systems, hardware acceleration and cryptographic implementations.
+
+## Writing
+
+I occasionally write up things I am learning or building.
+
+- [Understanding Anthropic's Break of HAWK](https://ishankumthekar.com/writing/understanding-anthropics-hawk-break)
+- [Designing Custom RISC-V Instructions to Accelerate PQC Schemes](https://ishankumthekar.com/projects/custom-risc-v-ml-kem-instructions)
+
+More at **[ishankumthekar.com](https://ishankumthekar.com)**.
