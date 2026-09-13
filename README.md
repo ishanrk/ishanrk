@@ -8,7 +8,6 @@ I work mostly around **cryptography, combinatorics, embedded systems, and algori
 
 [Website](https://ishankumthekar.com)  [Research](https://ishankumthekar.com/research)  [Writing](https://ishankumthekar.com/writing)
 
-<br clear="right">
 
 ## Research
 
