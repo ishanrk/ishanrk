@@ -72,4 +72,4 @@ I occasionally write up things I am learning or building.
 
 More at **[ishankumthekar.com](https://ishankumthekar.com)**.
 
-<img align="right" width="210" src="./check.png" alt="Ishan Kumthekar">
+<img width="210" src="./check.png" alt="Ishan Kumthekar">
