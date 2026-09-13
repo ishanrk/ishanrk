@@ -1,4 +1,4 @@
-<img align="right" width="210" src="./pfg.jpeg" alt="Ishan Kumthekar">
+<img align="right" width="210" src="./check.png" alt="Ishan Kumthekar">
 
 # Hi, I'm Ishan
 
