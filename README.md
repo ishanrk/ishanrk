@@ -6,7 +6,7 @@ I'm a Computer Science and Mathematics student at the University of Florida.
 
 I work mostly around **cryptography, combinatorics, embedded systems, and algorithms**. Recently I have been interested in post quantum cryptography on small processors, hardware security, quantum annealing, and computational approaches to problems in Ramsey theory.
 
-[Website](https://ishankumthekar.com) · [Research](https://ishankumthekar.com/research) · [Writing](https://ishankumthekar.com/writing)
+[Website](https://ishankumthekar.com)  [Research](https://ishankumthekar.com/research)  [Writing](https://ishankumthekar.com/writing)
 
 <br clear="right">
 
